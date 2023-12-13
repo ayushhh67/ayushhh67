@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Programming,Networking,Web Hacking**
 
-- 📝 I regularly write articles on [https://medium.com/@ayusshh](https://medium.com/@ayusshh)
+- 📝 I regularly write blog on [https://medium.com/@ayusshh](https://medium.com/@ayusshh)
 
 - 💬 Ask me about **anything?**
 
